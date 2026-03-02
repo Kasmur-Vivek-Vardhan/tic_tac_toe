@@ -2,6 +2,12 @@
 
 A modern, interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Features both two-player and single-player (vs AI) modes with a clean, responsive design.
 
+## ▶️ Play Now
+
+**[Open the live game →](https://kasmur-vivek-vardhan.github.io/tic_tac_toe/)**
+
+No installation needed — just click the link above and play in your browser!
+
 ## 🎮 Features
 
 - **Two Game Modes:**
